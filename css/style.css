@@ -140,8 +140,8 @@
 /* breeds */
 
 #breed {
-    padding-top: 3%;
-    padding-bottom: 70px;
+    padding-top: 5%;
+    padding-bottom: 5px;
     background-color: #fcc302;
     
      
@@ -195,5 +195,25 @@
     text-align: center;
 }
 
+/* <!-- counters --> */
+#counters{
+    background-image: url("../images/yellow.png");
+    padding-bottom: 120px;
+    padding-top: 120px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+#icon1 {
+    font-size: 70px;
+}
+#icon2 {
+    font-size: 70px;
+}
+#icon3 {
+    font-size: 70px;
+}
 
 
