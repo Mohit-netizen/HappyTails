@@ -216,4 +216,33 @@
     font-size: 70px;
 }
 
+/* <!-- articles --> */
+
+#article{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#posts{
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+#disc{
+    font-size: 25px;
+
+}
+.title{
+    font-weight: bolder;
+}
+.date,.link{
+    color: #00bec9;
+    font-weight: bolder;
+}
+.article-border{
+    padding: 15px;
+    border:1px solid rgb(185,185,185) ;
+    border-top: 0;
+}
+
 
