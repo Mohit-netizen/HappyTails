@@ -109,3 +109,91 @@
     }
 }
 
+/* <!-- Service  --> */
+
+
+#Servicetext{
+    
+    padding-top: 10%;
+    padding-bottom: 5%;
+
+}
+#Servicetext h1 {
+    
+    font-size: 30px
+}
+#Service-btn{
+    color: white;
+    background-color: #fcc302;
+    border: 2px solid  #fcc302 ;
+    
+}
+#Service-img{
+    padding: 5%;
+}
+@media only screen and (max-width: 768px){
+    #Service-img{
+        padding: 10%;
+    }
+}
+
+/* breeds */
+
+#breed {
+    padding-top: 3%;
+    padding-bottom: 70px;
+    background-color: #fcc302;
+    
+     
+}
+.content{
+    text-align: center;
+}
+
+#breed1 h2{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+#breed1 button{
+    background-color: #00bec9;
+    border: 1px solid #00bec9;
+    color: white;
+    margin-bottom: 15px;
+}
+.button-container1 {
+    text-align: center;
+}
+
+#breed2 h2{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+#breed2 button{
+    background-color: #00bec9;
+    border: 1px solid #00bec9;
+    color: white;
+    margin-bottom: 15px;
+}
+.button-container2 {
+    text-align: center;
+}
+
+#breed3 h2{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+#breed3 button{
+    background-color: #00bec9;
+    border: 1px solid #00bec9;
+    color: white;
+    margin-bottom: 15px;
+}
+.button-container3 {
+    text-align: center;
+}
+
+
+
